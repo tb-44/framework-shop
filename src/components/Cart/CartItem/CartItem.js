@@ -1,5 +1,4 @@
 import React, { PropTypes } from "react";
-
 import "./CartItem.css";
 
 export default function CartItem( { logo, name, price } ) {
